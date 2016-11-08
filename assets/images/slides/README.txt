@@ -1,0 +1,1 @@
+Slider images need to be 1700x449px
